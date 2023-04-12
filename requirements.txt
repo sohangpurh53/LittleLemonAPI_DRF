@@ -1,0 +1,4 @@
+Django==4.1.7
+djangorestframework_simplejwt==4.8.0
+rest_framework_simplejwt==0.0.2
+djoser==2.1.0
